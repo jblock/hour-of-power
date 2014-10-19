@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jason@jasontheblock.com",
+    "longName": "Hour of Power",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Hour of Power",
+    "uuid": "0cbac28b-811a-47f4-90dd-b7a9961bce25",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
